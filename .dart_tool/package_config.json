@@ -14,12 +14,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "ansicolor",
-      "rootUri": "file:///Users/mnurtay/.pub-cache/hosted/pub.dartlang.org/ansicolor-1.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
-    },
-    {
       "name": "archive",
       "rootUri": "file:///Users/mnurtay/.pub-cache/hosted/pub.dartlang.org/archive-3.1.2",
       "packageUri": "lib/",
@@ -150,12 +144,6 @@
       "rootUri": "file:///Users/mnurtay/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "console_log_handler",
-      "rootUri": "file:///Users/mnurtay/.pub-cache/hosted/pub.dartlang.org/console_log_handler-1.1.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
     },
     {
       "name": "convert",
@@ -476,7 +464,7 @@
       "languageVersion": "2.0"
     }
   ],
-  "generated": "2021-05-05T14:14:25.150532Z",
+  "generated": "2021-05-05T14:15:26.132178Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }
